@@ -5,9 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "server": "nodemon server.js",
+    "server": "nodemon server.js"
   },
-  "keywords": [],
   "author": "Matthew Jaikaran",
   "license": "ISC",
   "dependencies": {
